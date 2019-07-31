@@ -1,0 +1,17 @@
+#cookie
+
+##用法
+annie -c "SESSDATA=xxxxxxxxxxxx"  -i https://xxxxxxxxxxxxxxx
+
+参考网址：https://blog.csdn.net/adc_god/article/details/87989773
+
+
+##cookie获得
+
+1. chrome cookies.txt 插件
+2. chrome EditThisCookie 插件
+
+寻找 SESSDATA 的值
+
+
+ 
